@@ -21,4 +21,4 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
  
  
  **TABELA ALUNOS**
- 
+ C:\Users\adrie\OneDrive\Área de Trabalho\tabela_alunos.png
