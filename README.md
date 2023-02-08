@@ -20,6 +20,13 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
  É  apresentado no banco de dados, pela foreign key que é uma referência em uma tabela a uma primary key de outra tabela. 
  
  
+ 
+
  **TABELA ALUNOS**
- <br>
+ <br><br>
+  <img alt="tabela alunos" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_alunos.png">
+  
+  
+  **TABELA CURSOS**
+  <br><br>
   <img alt="tabela alunos" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_alunos.png">
