@@ -27,3 +27,11 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
   **TABELA CURSOS**
   <br>
   <img alt="tabela cursos" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_cursos.png">
+   <br><br><br>
+  **TABELA TURMAS**
+  <br>
+  <img alt="tabela turmas" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_turmas.png">
+  <br><br><br>
+ **RELAÇÕES DAS ENTIDADES**
+ <br>
+ <img alt="relações das entidades" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabelas_rela%C3%A7%C3%B5es.png">
