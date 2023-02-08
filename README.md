@@ -21,4 +21,5 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
  
  
  **TABELA ALUNOS**
+ <br>
   <img alt="tabela alunos" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_alunos.png">
