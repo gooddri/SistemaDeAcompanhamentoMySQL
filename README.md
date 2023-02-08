@@ -20,5 +20,5 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
  É  apresentado no banco de dados, pela foreign key que é uma referência em uma tabela a uma primary key de outra tabela. 
  
  
- **Tabela alunos**
- <img align="center" alt="tabela_alunos" height="30" width="40" src="https://user-images.githubusercontent.com/112405368/217655490-7b03e6a1-22b6-4c14-a11e-1c3671bff82a.png)">
+ **TABELA ALUNOS**
+ <img align="center" alt="tabela_alunos" height="30" width="40" src="![tabela_alunos](https://user-images.githubusercontent.com/112405368/217655698-1915f7c8-55b9-42d4-a4ac-2f2f32541afe.png)">
