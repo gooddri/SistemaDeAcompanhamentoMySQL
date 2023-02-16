@@ -20,9 +20,9 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
 📌 Como essas entidades estão relacionadas?
 
  As entidades se relacionam da maneira que "cursos" e "alunos" pertencem a "turmas".  
- É  apresentado no banco de dados, pela foreign key que é uma referência em uma tabela a uma primary key de outra tabela. 
+ É  apresentado no banco de dados, pela foreign key que é uma referência em uma tabela a uma primary key de outra tabela.   
  
- <br><br>
+ 
  **TABELA ALUNOS**  
  
   <img alt="tabela alunos" src="https://raw.githubusercontent.com/gooddri/SistemaDeAcompanhamentoMySQL/main/SQL/img.sql/tabela_alunos.png">
