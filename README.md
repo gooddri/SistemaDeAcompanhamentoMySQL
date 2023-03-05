@@ -1,5 +1,5 @@
 # Projeto resília - sistema de acompanhamento 
-Meu quarto projeto individual do módulo  IIII da RESÍLIA EDUCAÇÃO. 
+Meu quarto projeto individual do módulo IV da RESÍLIA EDUCAÇÃO. 
 Que consiste em modelar um banco de dados que vai armazenar as entidades cursos, turmas e alunos.
 
 
